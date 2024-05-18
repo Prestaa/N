@@ -1,8 +1,3 @@
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
 <ul>
     <a href="#IP">🌐 IP CONFIGURATION</a>
     <ul>
