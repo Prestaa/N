@@ -22,7 +22,7 @@
             </ul>
         </li>
         <li>
-            <div><a href="#utils">🛠️</a> <b>UTILS</b><div>
+            <div><a href="#utils">🛠️</a> <b>UTILS</b></div>
             <ul>
                 <li>
                     <a href="#section">Section</a>
