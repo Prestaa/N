@@ -46,6 +46,12 @@
             </ul>
         </li>
     </ul>
+    <a href="#tools">TOOLS</a>
+    <ul>
+         <li>
+            <a href="#subnet-calculator">Subnet calculator</a>
+         </li>
+    </ul>
 </ul>
 
 ## IP
@@ -156,3 +162,7 @@ login local
 transport input ssh
 ```
 
+## Tools
+
+# Subnet calculator
+<a href="https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html">Click here</a>
