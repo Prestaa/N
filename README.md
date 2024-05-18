@@ -49,7 +49,7 @@
     <a href="#">TOOLS</a>
     <ul>
          <li>
-            <a href="https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html">Subnet calculator</a>
+            <a target="_blank" href="https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html">Subnet calculator</a>
          </li>
     </ul>
 </ul>
