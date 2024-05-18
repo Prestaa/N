@@ -1,5 +1,10 @@
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
 <ul>
-    <a style="text-decoration: none;" href="#IP">🌐 IP CONFIGURATION</a>
+    <a href="#IP">🌐 IP CONFIGURATION</a>
     <ul>
          <li>
             <a href="#ip-address">IP Address</a>
