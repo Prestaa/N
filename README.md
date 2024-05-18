@@ -1,54 +1,50 @@
 # 🌐 Network cheatsheet
 
 <ul>
+    <a href="#IP">IP CONFIGURATION</a>
     <ul>
-        <a href="#IP">IP CONFIGURATION</a>
-        <ul>
-             <li>
-                <a href="#ip-address">IP Add</a>
-             </li>
-             <li>
-                <a href="#routes">Routing</a>
-             </li>
-        </ul>
-    </li>
-    <ul>
-        <a href="#cisco">CISCO</a>
-         <ul>
-            <li>
-                <a href="#configuration">Configuration</a>
-                <ul>
-                    <li>
-                        <a href="#ip-address-1">IP Add</a>
-                    </li>
-                    <li>
-                        <a href="#routes-1">IP Add</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="#utils">Utils</a>
-                <ul>
-                    <li>
-                        <a href="#section">Section</a>
-                    </li>
-                    <li>
-                        <a href="#include">Include</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="#security">Security</a>
-                <ul>
-                    <li>
-                        <a href="#general-security">Good practices</a>
-                    </li>
-                    <li>
-                        <a href="#enable-ssh">Enable SSH</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
+         <li>
+            <a href="#ip-address">IP Add</a>
+         </li>
+         <li>
+            <a href="#routes">Routing</a>
+         </li>
+    </ul>
+    <a href="#cisco">CISCO</a>
+     <ul>
+        <li>
+            <a href="#configuration">Configuration</a>
+            <ul>
+                <li>
+                    <a href="#ip-address-1">IP Add</a>
+                </li>
+                <li>
+                    <a href="#routes-1">IP Add</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#utils">Utils</a>
+            <ul>
+                <li>
+                    <a href="#section">Section</a>
+                </li>
+                <li>
+                    <a href="#include">Include</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#security">Security</a>
+            <ul>
+                <li>
+                    <a href="#general-security">Good practices</a>
+                </li>
+                <li>
+                    <a href="#enable-ssh">Enable SSH</a>
+                </li>
+            </ul>
+        </li>
     </ul>
 </ul>
 
