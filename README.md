@@ -2,24 +2,51 @@
 
 <ul>
     <ul>
-        <a href="#IP">IP</a>
+        <a href="#IP">IP CONFIGURATION</a>
         <ul>
              <li>
-                <a href="#Utils">Utils</a>
-            </li>
+                <a href="#ip-address">IP Add</a>
+             </li>
+             <li>
+                <a href="#routes">Routing</a>
+             </li>
         </ul>
     </li>
     <ul>
-        <a href="#Cisco">CISCO</a>
+        <a href="#cisco">CISCO</a>
          <ul>
             <li>
-                <a href="#Utils">Utils</a>
+                <a href="#configuration">Configuration</a>
+                <ul>
+                    <li>
+                        <a href="#ip-address-1">IP Add</a>
+                    </li>
+                    <li>
+                        <a href="#routes-1">IP Add</a>
+                    </li>
+                </ul>
             </li>
             <li>
-                <a href="#General-security">Security</a>
+                <a href="#utils">Utils</a>
+                <ul>
+                    <li>
+                        <a href="#section">Section</a>
+                    </li>
+                    <li>
+                        <a href="#include">Include</a>
+                    </li>
+                </ul>
             </li>
             <li>
-                <a href="#Enable-SSH">SSH</a>
+                <a href="#security">Security</a>
+                <ul>
+                    <li>
+                        <a href="#general-security">Good practices</a>
+                    </li>
+                    <li>
+                        <a href="#enable-ssh">Enable SSH</a>
+                    </li>
+                </ul>
             </li>
         </ul>
     </ul>
