@@ -4,7 +4,7 @@
     <a href="#IP">IP CONFIGURATION</a>
     <ul>
          <li>
-            <a href="#ip-address">IP Add</a>
+            <a href="#ip-address">IP Address</a>
          </li>
          <li>
             <a href="#routes">Routing</a>
@@ -16,10 +16,10 @@
             <a href="#configuration">Configuration</a>
             <ul>
                 <li>
-                    <a href="#ip-address-1">IP Add</a>
+                    <a href="#ip-address-1">IP Address</a>
                 </li>
                 <li>
-                    <a href="#routes-1">IP Add</a>
+                    <a href="#routes-1">Routing</a>
                 </li>
             </ul>
         </li>
