@@ -1,9 +1,15 @@
 # 🌐 Network cheatsheet
 
 <ul>
-    <a href="#Utils">Utils</a>
-    <a href="#General-security">Security</a>
-    <a href="#Enable-SSH">SSH</a>
+    <li>
+        <a href="#Utils">Utils</a>
+    </li>
+    <li>
+        <a href="#General-security">Security</a>
+    </li>
+    <li>
+        <a href="#Enable-SSH">SSH</a>
+    </li>
 </ul>
 
 ## Cisco
