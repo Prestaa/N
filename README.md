@@ -1,13 +1,13 @@
 # 🌐 Network cheatsheet
 
 <ul>
-    IP
+    <b>IP</b>
     <ul>
         <li>
             <a href="#Utils">Utils</a>
         </li>
     </ul>
-    Cisco
+    <b>CISCO</b>
     <ul>
         <li>
             <a href="#Utils">Utils</a>
@@ -21,7 +21,51 @@
     </ul>
 </ul>
 
+## IP
+##### IP Address
+**Set an ip address**
+```bash
+ip addr add ip/mask dev INAME
+```
+
+To unset an ip address, simply replace "add" by "delete".
+##### Routes
+**Set a route**
+```bash
+ip route add ip/mask via gw
+```
+
+**Set the default gw**
+```bash
+ip route add default via gw
+```
+
+To unset an route or the default gateway, simply replace "add" by "delete".
+
+
 ## Cisco
+
+### Configuration
+##### IP Address
+**Set an ip address**
+```bash
+interface X
+ip add ip/mask
+```
+
+To unset an ip address, simply add "no" before the "ip" command.
+##### Routes
+**Set a route**
+```bash
+ip route ip mask gw
+```
+
+**Set the default gw**
+```bash
+ip default-gateway gw
+```
+
+To unset an ip address, simply add "no" before the "ip" command.
 
 ### Utils
 
