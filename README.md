@@ -11,6 +11,7 @@
     <div><a href="#cisco">📡</a> <b>CISCO</b></div>
      <ul>
         <li>
+            <div><a href="#configuration">🛠️</a> <b>CONFIGURATION</b></div>
             <a href="#configuration">Configuration</a>
             <ul>
                 <li>
@@ -22,7 +23,7 @@
             </ul>
         </li>
         <li>
-            <div><a href="#utils">🛠️</a> <b>UTILS</b></div>
+            <div><a href="#utils">📦</a> <b>UTILS</b></div>
             <ul>
                 <li>
                     <a href="#section">Section</a>
