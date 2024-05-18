@@ -1,7 +1,5 @@
-# 🌐 Network cheatsheet
-
 <ul>
-    <a href="#IP">IP CONFIGURATION</a>
+    <a style="text-decoration: none;" href="#IP">🌐 IP CONFIGURATION</a>
     <ul>
          <li>
             <a href="#ip-address">IP Address</a>
