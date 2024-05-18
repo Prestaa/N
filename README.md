@@ -7,7 +7,7 @@
 ## Cisco
 
 ### General securisation
-```forth
+```fortran
 ! Chiffrement des mots de passes locaux cisco
 service password-encryption 
 security passwords min-length 8 
