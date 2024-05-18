@@ -1,15 +1,24 @@
 # 🌐 Network cheatsheet
 
 <ul>
-    <li>
-        <a href="#Utils">Utils</a>
-    </li>
-    <li>
-        <a href="#General-security">Security</a>
-    </li>
-    <li>
-        <a href="#Enable-SSH">SSH</a>
-    </li>
+    IP
+    <ul>
+        <li>
+            <a href="#Utils">Utils</a>
+        </li>
+    </ul>
+    Cisco
+    <ul>
+        <li>
+            <a href="#Utils">Utils</a>
+        </li>
+        <li>
+            <a href="#General-security">Security</a>
+        </li>
+        <li>
+            <a href="#Enable-SSH">SSH</a>
+        </li>
+    </ul>
 </ul>
 
 ## Cisco
@@ -17,11 +26,11 @@
 ### Utils
 
 #### Section
-```
+```bash
 show running-config | section line vty
 ```
 Output
-```
+```bash
 line vty 0 4
   password 7 094F471A1A0A
   exec-timeout 5 30
@@ -30,12 +39,12 @@ line vty 0 4
 ```
 
 #### Include
-```
+```bash
 show running-config | include line 192
 ```
 
 Output
-```
+```bash
 ip address 192.168.1.1 255.255.255.0
 ```
 
