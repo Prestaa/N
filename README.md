@@ -44,7 +44,7 @@
             </ul>
         </li>
     </ul>
-    <div><a href="#tools">🧰</a> <b>TOOLS</b></div>
+    <div><a href="#tools">⚡</a> <b>TOOLS</b></div>
     <ul>
          <li>
             <a target="_blank" href="https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html">Subnet calculator</a>
