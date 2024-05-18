@@ -1,35 +1,39 @@
 # 🌐 Network cheatsheet
 
 <ul>
-    <b>IP</b>
     <ul>
-        <li>
-            <a href="#Utils">Utils</a>
-        </li>
-    </ul>
-    <b>CISCO</b>
+        <a href="#IP">IP</a>
+        <ul>
+             <li>
+                <a href="#Utils">Utils</a>
+            </li>
+        </ul>
+    </li>
     <ul>
-        <li>
-            <a href="#Utils">Utils</a>
-        </li>
-        <li>
-            <a href="#General-security">Security</a>
-        </li>
-        <li>
-            <a href="#Enable-SSH">SSH</a>
-        </li>
+        <a href="#Cisco">CISCO</a>
+         <ul>
+            <li>
+                <a href="#Utils">Utils</a>
+            </li>
+            <li>
+                <a href="#General-security">Security</a>
+            </li>
+            <li>
+                <a href="#Enable-SSH">SSH</a>
+            </li>
+        </ul>
     </ul>
 </ul>
 
 ## IP
-##### IP Address
+#### IP Address
 **Set an ip address**
 ```bash
 ip addr add ip/mask dev INAME
 ```
 
 To unset an ip address, simply replace "add" by "delete".
-##### Routes
+#### Routes
 **Set a route**
 ```bash
 ip route add ip/mask via gw
@@ -46,7 +50,8 @@ To unset an route or the default gateway, simply replace "add" by "delete".
 ## Cisco
 
 ### Configuration
-##### IP Address
+
+#### IP Address
 **Set an ip address**
 ```bash
 interface X
@@ -54,7 +59,7 @@ ip add ip/mask
 ```
 
 To unset an ip address, simply add "no" before the "ip" command.
-##### Routes
+#### Routes
 **Set a route**
 ```bash
 ip route ip mask gw
@@ -92,7 +97,8 @@ Output
 ip address 192.168.1.1 255.255.255.0
 ```
 
-### General security
+### Security
+#### General security
 ```bash
 ! Chiffrement des mots de passes locaux cisco
 service password-encryption
@@ -112,7 +118,7 @@ password MY_SECURE_PASSWORD
 exec-timeout 5 30 
 ```
 
-### Enable SSH
+#### Enable SSH
 
 ```bash
 configure terminal
