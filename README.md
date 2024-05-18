@@ -1,5 +1,5 @@
 <ul>
-    <a href="#IP">🌐 IP CONFIGURATION</a>
+    <div><a href="#IP">🌐</a> **IP CONFIGURATION**</div>
     <ul>
          <li>
             <a href="#ip-address">IP Address</a>
@@ -8,7 +8,7 @@
             <a href="#routes">Routing</a>
          </li>
     </ul>
-    <a href="#cisco">CISCO</a>
+    <div><a href="#cisco">📡</a> **CISCO**</div>
      <ul>
         <li>
             <a href="#configuration">Configuration</a>
@@ -22,7 +22,7 @@
             </ul>
         </li>
         <li>
-            <a href="#utils">Utils</a>
+            <div><a href="#utils">🛠️</a> **UTILS**</div>
             <ul>
                 <li>
                     <a href="#section">Section</a>
@@ -33,7 +33,7 @@
             </ul>
         </li>
         <li>
-            <a href="#security">Security</a>
+            <div><a href="#security">🛡️</a> **SECURITY**</div>
             <ul>
                 <li>
                     <a href="#general-security">Good practices</a>
@@ -44,7 +44,7 @@
             </ul>
         </li>
     </ul>
-    <a href="#">TOOLS</a>
+    <div><a href="#tools">🧰</a> **TOOLS**</div>
     <ul>
          <li>
             <a target="_blank" href="https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html">Subnet calculator</a>
