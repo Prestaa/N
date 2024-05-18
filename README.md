@@ -1,5 +1,5 @@
 <ul>
-    <div><a href="#IP">🌐</a> <b>IP CONFIGURATION</b></div>
+    <div><a href="#IP">🌐</a> - <b>IP CONFIGURATION</b></div>
     <ul>
          <li>
             <a href="#ip-address">IP Address</a>
@@ -8,7 +8,7 @@
             <a href="#routes">Routing</a>
          </li>
     </ul>
-    <div><a href="#cisco">📡</a> <b>CISCO</b></div>
+    <div><a href="#cisco">📡</a> - <b>CISCO</b></div>
      <ul>
         <li>
             <div><a href="#configuration">🛠️</a> <b>CONFIGURATION</b></div>
@@ -22,7 +22,7 @@
             </ul>
         </li>
         <li>
-            <div><a href="#utils">📦</a> <b>UTILS</b></div>
+            <div><a href="#utils">📦</a> - <b>UTILS</b></div>
             <ul>
                 <li>
                     <a href="#section">Section</a>
