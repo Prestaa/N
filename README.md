@@ -12,7 +12,6 @@
      <ul>
         <li>
             <div><a href="#configuration">🛠️</a> <b>CONFIGURATION</b></div>
-            <a href="#configuration">Configuration</a>
             <ul>
                 <li>
                     <a href="#ip-address-1">IP Address</a>
